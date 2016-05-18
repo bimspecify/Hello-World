@@ -1,0 +1,11 @@
+D:\_bimspecify\hello world\helloworld\bin\Debug\helloworld.exe.config
+D:\_bimspecify\hello world\helloworld\bin\Debug\helloworld.exe
+D:\_bimspecify\hello world\helloworld\bin\Debug\helloworld.pdb
+D:\_bimspecify\hello world\helloworld\bin\Debug\helloworld.xml
+D:\_bimspecify\hello world\helloworld\obj\Debug\helloworld.vbprojResolveAssemblyReference.cache
+D:\_bimspecify\hello world\helloworld\obj\Debug\helloworld.Form1.resources
+D:\_bimspecify\hello world\helloworld\obj\Debug\helloworld.Resources.resources
+D:\_bimspecify\hello world\helloworld\obj\Debug\helloworld.vbproj.GenerateResource.Cache
+D:\_bimspecify\hello world\helloworld\obj\Debug\helloworld.exe
+D:\_bimspecify\hello world\helloworld\obj\Debug\helloworld.xml
+D:\_bimspecify\hello world\helloworld\obj\Debug\helloworld.pdb
